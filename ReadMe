@@ -1,0 +1,9 @@
+@author: Rishabh Ojha
+@date: 04/07/2018 
+
+The current directory hold three java files:
+  1. Bank.java (It only contains the most basic details of the bank)
+  2. Customer.java (It constains the details related to the Customer's account in the bank)
+  3. CustomerList.java (This class is used for the purpose of creating the LinkedList of Customer type objects)
+  
+  
